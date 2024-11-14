@@ -13,7 +13,9 @@
     <img src="https://skillicons.dev/icons?i=gmail,notion&theme=light" />
   </a>
   <h4 align="center" type="link">wooinp92@gmail.com</h4>
+<!--
   <h4 align="center" type="link">https://url.kr/4a1izt</h4>
+-->
 </p>
 
 <br/>
