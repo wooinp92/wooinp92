@@ -44,8 +44,17 @@
 <br/>
 <br/>
 
+<h3 align="center">Contributions</h3>
+
+<!-- 3D 잔디 -->
+![green version](profile-3d-contrib/profile-green.svg)
+
+<br/>
+<br/>
+
+<!-- 
+
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wooinp92&show_icons=true&locale=en&layout=compact" alt="wooinp92" />
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=wooinp92&show_icons=true&locale=en" alt="wooinp92" />
 </p>
 
@@ -53,4 +62,4 @@
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wooinp92&" alt="wooinp92" />
 </p>
 
-<br/>
+-->
