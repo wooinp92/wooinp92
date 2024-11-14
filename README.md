@@ -47,7 +47,7 @@
 <h3 align="center">Contributions</h3>
 
 <!-- 3D 잔디 -->
-![green version](profile-3d-contrib/profile-green.svg)
+![green version](profile-3d-contrib/profile-season.svg)
 
 <br/>
 <br/>
