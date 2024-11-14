@@ -1,16 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20PARK%20WOOIN&fontSize=70&fontAlignY=45&desc=IT%20개발%20지망생&descAlignY=70&descSize=25)
-
-<!--
-<h1 align="center">Hi 👋, I'm PARK WOOIN</h1>
-<h3 align="center">IT 개발 지망생</h3>
--->
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wooinp92&label=Profile%20views&color=0e75b6&style=flat" alt="wooinp92" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wooinp92" alt="wooinp92" /></a> </p>
-
-<br/>
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=C3E5AE&height=250&section=header&text=Hi,%20I'm%20PARK%20WOOIN&fontColor=363636&textBg=f0f0f0&fontSize=70&fontAlignY=45&desc=IT%20개발%20지망생&descAlignY=70&descSize=25"/>
+</p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
